@@ -1,0 +1,76 @@
+MAP LEGEND
+
+
+-----tiles--------
+X brown breakable wall
+Y grey Breakable wall
+# brown wall
+6 grey wall (if @ exists, it removes 6)
+= bottomless pit
+R water
+L stairs down
+P player
+
+. teleport trap
+
+: invisible wall , reverals when bumped  lvl1)
+8 invisible wall fills in when triggered by .  lvl1)
+7 invisibel wall fills inwhen triggered by ` lvl1
+~ removes breakable walls around edge  lvl2)
+M moving walls (lvl4) moves randomly to fill spaces player has been
+; hidden breakable wall
+^ hidden door
+
+9 Lava trigger (not so sure this is a trigger anymore, just a random mob trigger i think, lava just flows)
+V lava
+
+-----Items-----------------------------------------------------------
++ gems
+* Gold Nuggets
+T teleport
+C chest
+W whip
+K key 
+B bomb
+Q increase whip power ring
+? pouch of 25 gems
+H reveal gems spell 
+
+< K
+[ R
+| O
+" Z
+
+---- Mobs------
+a A
+b U
+c O
+d spade
+e bubble monster on lvl 9 doesnt move for a while then does
+
+------Spells----------------
+S slow monster
+Z freeze monster
+I player invisible (mosnters can still see you, you cant!)
+
+
+
+
+
+-------------to change maybe?--------------------------------------
+& = hidden reveal gems spell  adds new gems to the map(changed to H)
+
+
+
+; = hidden breakable 
+O = breakable H removes it ( has been changed to Y, ~)
+` hidden door lvl 7 (Now ^)
+N invis walls trap.
+6 wall, ó removes it (need to change this) (changed to 6, @)
+E earthquake trap
+
+
+--------level 8 right now-----------------------------------------------------------------
+9 hidden wall, $ reveals it (lvl 8 triggered at end of . . . . line, need to make up key for it.)
+ñ gets rid of walls 4 (changed to ( , 4)
+ò gets rid of wall 5 (changed to ) , 5)

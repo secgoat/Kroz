@@ -1,0 +1,114 @@
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\BaseFont.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\bomb.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\breakable.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\chest.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\door.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\elf_mummy.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\fast_monster.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\floor.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\freeze_monester.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\gem.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\gnome.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\gold.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\invisibility.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\k.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\key.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\lava.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\o.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\ogre_lord.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\pit.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\player.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\r.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\ring.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\sack.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\shocking_sphere.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\slow_monster.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\stairs.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\statue.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\tablet.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\teleport.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\tele_trap.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\tree.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\umber_hulk.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\wall.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\water.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\whip.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\z.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\zap_monster.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\whipAnimation.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\whipAnimation16.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Menu\greenmetal.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\alienmetal.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\GUI\texTextBox.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\GUI\texButton.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\GUI\texForm.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\transparent.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\MobGenerator.xnb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Kroz.exe
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Kroz.pdb
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\FuchsGUI.dll
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\obj\x86\Debug\Kroz.exe
+C:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\obj\x86\Debug\Kroz.pdb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\obj\x86\Debug\Kroz.exe
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\obj\x86\Debug\Kroz.pdb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\BaseFont.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\bomb.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\breakable.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\chest.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\door.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\elf_mummy.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\fast_monster.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\floor.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\freeze_monester.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\gem.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\gnome.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\gold.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\invisibility.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\k.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\key.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\lava.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\o.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\ogre_lord.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\pit.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\player.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\r.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\ring.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\sack.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\shocking_sphere.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\slow_monster.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\stairs.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\statue.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\tablet.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\teleport.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\tele_trap.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\tree.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\umber_hulk.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\wall.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\water.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\whip.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\z.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\zap_monster.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\whipAnimation.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\whipAnimation16.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Menu\greenmetal.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\alienmetal.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\GUI\texTextBox.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\GUI\texButton.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\GUI\texForm.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\transparent.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\MobGenerator.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Kroz.exe
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Kroz.pdb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\FuchsGUI.dll
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\removewalls.xnb
+C:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\removewalls.xnb
+c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\teleporter.xnb
+c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\crown.xnb
+c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\bubble.xnb
+c:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\teleporter.xnb
+c:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\crown.xnb
+c:\Users\WhyNot\Documents\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\bubble.xnb

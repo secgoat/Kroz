@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kroz", "Kroz\Kroz\Kroz.csproj", "{B1681208-9D9E-440E-905B-FF53AD93A21C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KrozContent", "Kroz\KrozContent\KrozContent.contentproj", "{DCF601F9-FFF9-4D14-AD81-DCCA76693114}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1681208-9D9E-440E-905B-FF53AD93A21C}.Debug|x86.ActiveCfg = Debug|x86
+		{B1681208-9D9E-440E-905B-FF53AD93A21C}.Debug|x86.Build.0 = Debug|x86
+		{B1681208-9D9E-440E-905B-FF53AD93A21C}.Release|x86.ActiveCfg = Release|x86
+		{B1681208-9D9E-440E-905B-FF53AD93A21C}.Release|x86.Build.0 = Release|x86
+		{DCF601F9-FFF9-4D14-AD81-DCCA76693114}.Debug|x86.ActiveCfg = Debug|x86
+		{DCF601F9-FFF9-4D14-AD81-DCCA76693114}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

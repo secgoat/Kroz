@@ -1,0 +1,601 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>BaseFont.spritefont</Source>
+      <Name>BaseFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\BaseFont.xnb</Output>
+      <Time>2012-02-19T08:38:42.09375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bomb.bmp</Source>
+      <Name>Images\bomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\bomb.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\breakable.bmp</Source>
+      <Name>Images\breakable</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\breakable.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\chest.bmp</Source>
+      <Name>Images\chest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\chest.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\door.bmp</Source>
+      <Name>Images\door</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\door.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\elf_mummy.bmp</Source>
+      <Name>Images\elf_mummy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\elf_mummy.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fast_monster.bmp</Source>
+      <Name>Images\fast_monster</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\fast_monster.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\floor.bmp</Source>
+      <Name>Images\floor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\floor.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\freeze_monester.bmp</Source>
+      <Name>Images\freeze_monester</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\freeze_monester.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\gem.bmp</Source>
+      <Name>Images\gem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\gem.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\gnome.bmp</Source>
+      <Name>Images\gnome</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\gnome.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\gold.bmp</Source>
+      <Name>Images\gold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\gold.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\invisibility.bmp</Source>
+      <Name>Images\invisibility</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\invisibility.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\k.bmp</Source>
+      <Name>Images\k</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\k.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\key.bmp</Source>
+      <Name>Images\key</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\key.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\lava.bmp</Source>
+      <Name>Images\lava</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\lava.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\o.bmp</Source>
+      <Name>Images\o</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\o.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ogre_lord.bmp</Source>
+      <Name>Images\ogre_lord</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\ogre_lord.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\pit.bmp</Source>
+      <Name>Images\pit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\pit.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\player.bmp</Source>
+      <Name>Images\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\player.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\r.bmp</Source>
+      <Name>Images\r</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\r.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ring.bmp</Source>
+      <Name>Images\ring</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\ring.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\sack.bmp</Source>
+      <Name>Images\sack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\sack.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\shocking_sphere.bmp</Source>
+      <Name>Images\shocking_sphere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\shocking_sphere.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\slow_monster.bmp</Source>
+      <Name>Images\slow_monster</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\slow_monster.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\stairs.bmp</Source>
+      <Name>Images\stairs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\stairs.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\statue.bmp</Source>
+      <Name>Images\statue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\statue.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tablet.bmp</Source>
+      <Name>Images\tablet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\tablet.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\teleport.bmp</Source>
+      <Name>Images\teleport</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\teleport.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tele_trap.bmp</Source>
+      <Name>Images\tele_trap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\tele_trap.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tree.bmp</Source>
+      <Name>Images\tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\tree.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\umber_hulk.bmp</Source>
+      <Name>Images\umber_hulk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\umber_hulk.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\wall.bmp</Source>
+      <Name>Images\wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\wall.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\water.bmp</Source>
+      <Name>Images\water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\water.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\whip.bmp</Source>
+      <Name>Images\whip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\whip.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\z.bmp</Source>
+      <Name>Images\z</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\z.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\zap_monster.bmp</Source>
+      <Name>Images\zap_monster</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">71, 108, 108, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\zap_monster.xnb</Output>
+      <Time>2012-01-13T08:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\whipAnimation.png</Source>
+      <Name>Images\whipAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\whipAnimation.xnb</Output>
+      <Time>2012-02-01T14:50:35-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\whipAnimation16.png</Source>
+      <Name>Images\whipAnimation16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\whipAnimation16.xnb</Output>
+      <Time>2012-02-03T12:23:21-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\greenmetal.jpg</Source>
+      <Name>Menu\greenmetal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Menu\greenmetal.xnb</Output>
+      <Time>2012-02-17T14:47:38.4887648-05:00</Time>
+    </Item>
+    <Item>
+      <Source>alienmetal.jpg</Source>
+      <Name>alienmetal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\alienmetal.xnb</Output>
+      <Time>2012-02-20T09:18:31.734375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\texTextBox.png</Source>
+      <Name>GUI\texTextBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\GUI\texTextBox.xnb</Output>
+      <Time>2012-03-22T15:39:42.0630369-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\texButton.png</Source>
+      <Name>GUI\texButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\GUI\texButton.xnb</Output>
+      <Time>2012-03-22T15:39:46.6904996-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GUI\texForm.png</Source>
+      <Name>GUI\texForm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\GUI\texForm.xnb</Output>
+      <Time>2012-03-22T16:09:36.2664487-04:00</Time>
+    </Item>
+    <Item>
+      <Source>transparent.png</Source>
+      <Name>transparent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\transparent.xnb</Output>
+      <Time>2012-03-23T09:21:50.9375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\MobGenerator.bmp</Source>
+      <Name>Images\MobGenerator</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\MobGenerator.xnb</Output>
+      <Time>2012-04-13T14:00:30.73589-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\removewalls.bmp</Source>
+      <Name>Images\removewalls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\removewalls.xnb</Output>
+      <Time>2012-04-19T15:33:02.9940926-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\teleporter.bmp</Source>
+      <Name>Images\teleporter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\teleporter.xnb</Output>
+      <Time>2012-04-25T14:20:52.0537444-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\crown.bmp</Source>
+      <Name>Images\crown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\crown.xnb</Output>
+      <Time>2012-04-25T16:05:28.5253877-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bubble.bmp</Source>
+      <Name>Images\bubble</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\Images\bubble.xnb</Output>
+      <Time>2012-04-25T16:06:08.1663514-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\KrozContent\</RootDirectory>
+      <LoggerRootDirectory>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\KrozContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\Users\jtilson\Documents\Visual Studio 2010\Projects\Kroz\Kroz\Kroz\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-01-03T12:13:59.0658324-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

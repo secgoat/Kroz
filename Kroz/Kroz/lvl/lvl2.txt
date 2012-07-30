@@ -1,0 +1,25 @@
+##################################################################
+#YYYY<YYYY[YYYY|YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY bbbbb YYYY#
+#  #############################################################Y#
+#   T bbbbbbb T           ##b      b##CCdddddddddddddd       +##Y#
+#  #############      ##++##    b   ###################       ##Y#
+#                     ##  ## b     bXXXXXXXXXXXXXXXXXXX       ##Y#
+########################  ##                                  ##Y#
+#!CX XTXWXWXWXWXWXWXWXWX            XXXXXXXXXXXXXXXXXXX       ##Y#
+#66666666666666666666666666666666666666666666666666666666666  ##Y#
+#I 66c     66c 66 W66 c66 c66c    c66Cc66  66c    W66c     c  ##Y#
+#K 66  66          66      66  66  66  66      66  66  66     ##Y#
+#I c   66c 66 W66c     66W     66c         66W 66c     66c    ##Y#
+#66666666666666666666666666666666666666666666666666666666666  ##Y#
+#    b b bb b b bb b "6~66+++++++66 b   b b b b b  b b        ##Y#
+# 6   b   b bb b  b   6T66b  b  b66   b  b b   b b        ##**##Y#
+# 6  b b bb  b b bb b 6 66       66b  b b  b b            ##bb##Y#
+# 6  bb b b b b bb b  6 66  XXX  66  b    b  b b        c ##bb##Y#
+# 6    b b bb bb b  bb6 66b XPX b66 b  bb b            c  ##bb##Y#
+# 6  C bb b  bb b b b 6 66  XXX  66  b  b            c c T##bb##Y#
+# 6 6666666666666666666 66       66b b             c########bb##Y#
+# 6                     66b  b  b66666           c  ##cccc##bb##Y#
+# 666666666666666666666666       66S66        c   c ##cccc##bQ##Y#
+#  c********                                        ##    ######Y#
+#+XXXXXXXXXXXXXXXXXXXXXX66b+b+b+b66                       X++++DL#
+##################################################################

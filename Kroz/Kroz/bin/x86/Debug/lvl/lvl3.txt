@@ -1,0 +1,24 @@
+###################################################################
+#bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb#
+#                                                                #
+#### =======H      ##*b      b *    b   I*    Ib  I   I I        #
+#L##   K=========  ##   b             I    I  I I   I   ## ##### #
+#H## =========+    ##       XXXXXXXXX   b I  I   I Ib  b## ##?##.#
+#D## P +========== ##  *   XXXXXXXXXXX      I II *I II b##;## ##.#
+#D##  ==========+  ##      XXXXXXXXXXX   I I    I I I  b##C##;##.#
+#D##               ## b    XXXXXXXXXXX I   * I  II I * b## ## ##.#
+#b## ################      XXXXXKXXXXX   I I   I  I Ib b## ## ##.#
+#C##  * bbbbbbbbbbb  * b  XXXXXXXXXXXXX     I I  I     b##b## ##*#
+#b##                     XXXXXXXXXXXXXXX  *  b I b I I  ##### ##*#
+#C###        *          XXXXXXXXXXXXXXXXX             *   b   ##*#
+#b###b              *    XXX#########XXX        *           * ##*#
+#W###                     XX##WWCWW##XX     *     b    *      ##*#
+#W###    * b               X####X####X         *           *  ##*#
+#W###              *          ## ##                 b   *   Wb##b#
+#W###       *       88888888888# #88888888888      ,############ #
+#W###    b ############    V V    VV V    ###########K....   ... #
+#W###      #b           * VVVVV    VVVV           b## ... ... .. #
+#X###      # # # # # #    VVVVVV!VVVVV*    # # # # ##.  .. .. . .#
+#X##       #W#W#W#W#W#W  VVVVVVVVVVVVVVV  W#W#W#W#W####. .. . .. #
+#        b #W#W#W#W#W#W#########?#########W#W#W#W#W#W##     I.. .#
+##################################################################
